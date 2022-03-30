@@ -17,5 +17,8 @@
 		"psr-4": {
 			"SultanovSolutionsCodingStandard\\": "SultanovSolutionsCodingStandard/"
 		}
+	},
+	"require-dev": {
+		"phpro/grumphp": "^1.10"
 	}
 }
