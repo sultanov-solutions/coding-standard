@@ -3,8 +3,7 @@
 	"require": {
 		"php": "^8.0",
 		"squizlabs/php_codesniffer": "^3.6",
-		"slevomat/coding-standard": "^7.0",
-		"phpro/grumphp": "^1.10"
+		"slevomat/coding-standard": "^7.0"
 	},
 	"license": "MIT",
 	"authors": [
