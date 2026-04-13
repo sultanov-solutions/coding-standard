@@ -1,5 +1,6 @@
 {
 	"name": "sultanov-solutions/coding-standard",
+	"type": "phpcodesniffer-standard",
 	"version": "1.0.27",
 	"require": {
 		"php": "^8.0",
